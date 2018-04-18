@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_title">Egypt Tour Guide</string>
+    <string name="header_subtitle">made by Al_shimaa Refaat</string>
+    <string name="title1">Cairo</string>
+    <string name="title2">Giza</string>
+    <string name="title3">Alexandria</string>
+    <string name="title4">Sharm El_sheikh</string>
+    <string name="Bibliotheca">Bibliotheca alex</string>
+    <string name="Catacombs">Catacombs of kom hokafa</string>
+    <string name="Montazah">Montazah palace</string>
+    <string name="pompeyes">pompeyes pillar</string>
+    <string name="Qaitbey">Qaitbey Citadel</string>
+    <string name="Alexandria">Alexandria Egypt africa</string>
+    <string name="Ebn">Ebn tulan</string>
+    <string name="AL_azhar">AL_azhar Park</string>
+    <string name="Manial">Manial Palace</string>
+    <string name="Msjed">Msjed Sultan</string>
+    <string name="Tahrir">Tahrir square</string>
+    <string name="Cairo">Cairo Egypt africa</string>
+    <string name="giza_desc">Giza Egypt africa</string>
+    <string name="Egyptian">Egyptian meuseum</string>
+    <string name="GizaP">Giza plateau</string>
+    <string name="Great">Great sphinx</string>
+    <string name="Pyramids">Pyramids</string>
+    <string name="Pharonic">Pharonic village</string>
+    <string name="alf">alf lyla</string>
+    <string name="Akwa">Akwa park</string>
+    <string name="Safari">Safari</string>
+    <string name="Al_souq">Al_souq El_sha3bi</string>
+    <string name="khaleg">khaleg neama</string>
+    <string name="Sharm_Elsheikh">Sharm_Elsheikh Egypt africa</string>
+    <string name="pram1">param1</string>
+    <string name="Replace_action">Replace with your own action</string>
+    <string name="action">Action</string>
+</resources>

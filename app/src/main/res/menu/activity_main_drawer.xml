@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cairo"
+            android:icon="@drawable/cairo"
+
+            android:title="@string/title1" />
+        <item
+            android:id="@+id/nav_giza"
+            android:icon="@drawable/giza"
+            android:title="@string/title2" />
+        <item
+            android:id="@+id/nav_alex"
+            android:icon="@drawable/alex"
+            android:title="@string/title3" />
+        <item
+            android:id="@+id/nav_sharm"
+            android:icon="@drawable/sharm"
+            android:title="@string/title4" />
+    </group>
+
+
+</menu>
+
